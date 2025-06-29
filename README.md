@@ -45,7 +45,5 @@ Este projeto é de uso livre e pode ser modificado conforme necessário.
 [Clique aqui](https://sorteador-de-numero-omega.vercel.app/)
 
 
----
 
-Feito com ❤️ para facilitar sorteios aleatórios!
 
