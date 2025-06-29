@@ -42,7 +42,7 @@ O código é composto pelas seguintes funções:
 Este projeto é de uso livre e pode ser modificado conforme necessário.
 
 ## 🚀 Teste aqui
-[Clique aqui](https://sorteador-de-numero-omega.vercel.app/)
+[Clique aqui](https://sorteador-numeros-sigma-mauve.vercel.app/)
 
 
 
